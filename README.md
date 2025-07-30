@@ -59,6 +59,12 @@
 
 ## Установка и настройка
 
+### Клонирование репозитория:
+   ```bash
+    git clone https://github.com/Nevermore-cel/phpCommentaryLoaderRestApi.git
+    cd phpCommentaryLoaderRestApi
+   ```
+
 ### Предварительные требования
 
 *   **PHP:** Версия 7.4 или выше.
